@@ -1,5 +1,6 @@
 I use F = G * (m1 * m2) / r^2. As the default. There is the option to change the value of G or use a different force law. You have 2 options, use the data for the solar system, from any specified date, or input bodies manually.
 You can choose the number of bodies, as well as the bodies masses, initial locations, and velocities.
+You can take real data from the solar system. You can input all or some of the bodies. You can even modify their masses.
 You then input the time step and duration.
 
 
